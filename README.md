@@ -1,5 +1,5 @@
 # lex
-Latest Life Expectancy data, compiled by Gapminder from multiple sources
+Latest Life Expectancy data, compiled by Gapminder from multiple sources.
 See documentation here: www.gapm.io/ilex
 
 THIS DATA IS PROVIDED UNDER CC BY LICENSE 4.0
